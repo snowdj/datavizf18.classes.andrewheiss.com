@@ -6,3 +6,6 @@ blogdown/
 public/
 .DS_Store
 static/**/*.zip
+*_cache/
+static/rmarkdown-libs/
+content/class/09-class.html
